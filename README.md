@@ -9,4 +9,5 @@ Input a Trig and output all identities that equal it!
 3. Select all of the code and copy it
 4. Paste it in a file with the extension of .py 
     - Similar to how we did it in the tutorial
+    - Using Atom may be the easiest
 5. Edit the code to your hearts desire
